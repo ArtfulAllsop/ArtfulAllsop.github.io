@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Your awesome title</title>
-        <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+        <title></title>
+        <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Sep 2022 23:16:14 +0000</pubDate>
-        <lastBuildDate>Fri, 23 Sep 2022 23:16:14 +0000</lastBuildDate>
-        <generator>Jekyll v3.9.2</generator>
+        <pubDate>Sat, 10 Sep 2022 00:27:02 -0400</pubDate>
+        <lastBuildDate>Sat, 10 Sep 2022 00:27:02 -0400</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
         
             <item>
                 <title>That which does not kill us makes us stronger</title>
@@ -51,7 +51,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Wed, 14 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Wed, 14 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
                 
@@ -112,7 +112,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Mon, 12 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Mon, 12 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
                 
@@ -173,7 +173,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Sun, 11 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Sun, 11 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
                 
@@ -228,7 +228,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Sat, 10 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Sat, 10 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</guid>
                 
@@ -283,7 +283,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Fri, 09 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Fri, 09 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</guid>
                 
@@ -338,7 +338,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Thu, 08 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Thu, 08 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</guid>
                 
@@ -391,7 +391,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Wed, 07 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Wed, 07 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/what-you-do-speaks-so-loudly-that-i-cannot-hear-what-you-say</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/what-you-do-speaks-so-loudly-that-i-cannot-hear-what-you-say</guid>
                 
@@ -452,7 +452,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Tue, 06 Nov 2018 12:01:35 +0000</pubDate>
+                <pubDate>Tue, 06 Nov 2018 07:01:35 -0500</pubDate>
                 <link>http://localhost:4000/blog/you-must-be-the-change-you-wish-to-see-in-the-world</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/you-must-be-the-change-you-wish-to-see-in-the-world</guid>
                 
@@ -505,7 +505,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Wed, 31 Oct 2018 12:01:35 +0000</pubDate>
+                <pubDate>Wed, 31 Oct 2018 08:01:35 -0400</pubDate>
                 <link>http://localhost:4000/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things</guid>
                 
@@ -560,7 +560,7 @@
 
 &lt;p&gt;Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.&lt;/p&gt;
 </description>
-                <pubDate>Tue, 29 May 2018 15:05:55 +0000</pubDate>
+                <pubDate>Tue, 29 May 2018 11:05:55 -0400</pubDate>
                 <link>http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</guid>
                 
