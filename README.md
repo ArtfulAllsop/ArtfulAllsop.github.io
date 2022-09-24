@@ -16,12 +16,12 @@ This has been created for the testing and design of my own personal website. The
 
 * * *
 
-### Development:
+### Website Development:
 
 To learn how I did this I would recommend checking out the following tutorial [here](https://github.com/BillRaymond/my-jekyll-docker-website)
 
 * * *
 
-### Support
+### Website Suggestions:
 
-<p>If you have any questions, please feel free to send an email <a href="mailto:yournamehere@gmail.com">here</a><p>
+<p>Have any questions or spot errors? Please feel free to send an email <a href="mailto:yournamehere@gmail.com">here</a><p>
