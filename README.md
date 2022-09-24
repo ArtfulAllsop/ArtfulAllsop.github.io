@@ -1,6 +1,12 @@
 # Official Website | artfulallsop.github.io
 
-Short Intro Here:
+This is for the testing and design of my own personal website.
+
+This website is being hosted by GitHub Pages and uses a hosted domain name.
+
+Website developed with VSCode, Docker and Jekyll in a Windows environment.
+
+This website is for personal use and only used as a learning tool for my own interests.
 
 * * *
 
@@ -11,35 +17,22 @@ Short Intro Here:
 - 100% responsive Design
 - Clean and Modern Code
 - Optimized for mobile devices
-- Super fast performance ⚡⚡⚡
-- No jQuery, only vanilla JS
-- Social sharing buttons
-- Scroll to top button
-- Syntax highlighting (supports the Jekyll syntax highlighter)
 - Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Tags Page
-- Custom logo support
 - Supports contact form (Formspree)
 - Supports MailChimp newsletter
 - Supports Disqus comments
 - Supports Google Analytics
 - Ionicons icons
 - Free Google Fonts
-- Free Updates & Support
 
 * * *
 
-### Deployment
+### Development:
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+To learn how I did this I would recommend checking out the following tutorial[Here](https://github.com/BillRaymond/my-jekyll-docker-website)
 
 * * *
 
 ### Support
 
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+<p>If you have any questions, please feel free to contact me <a href="mailto:yournamehere@gmail.com">Here</a><p>
