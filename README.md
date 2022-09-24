@@ -21,6 +21,4 @@ This has been created for the testing and design of my own personal website. The
 
 To learn how I did this I would recommend checking out the following tutorial [here](https://github.com/BillRaymond/my-jekyll-docker-website) to get started.
 
-- Works with GitHub Pages and Jekyll.
-
 * * *
