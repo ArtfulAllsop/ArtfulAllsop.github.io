@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Clancy
+title: ArtfulAllsop
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Jason Collins
-description: Clancy is a elegant portfolio theme for Jekyll.
+description: ArtfulAllsop is a elegant portfolio theme for Jekyll.
 
 
 #-------------------------------
@@ -98,10 +98,10 @@ social:
 # Contact Settings
 contact:
   email: your@email.com # Add your email for contact form
-  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
+  description: ArtfulAllsop comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
 
 # NOTE
-# Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+# ArtfulAllsop comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 
 #-------------------------------

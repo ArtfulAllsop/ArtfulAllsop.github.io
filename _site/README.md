@@ -1,12 +1,12 @@
-# Clancy is an elegant portfolio theme for Jekyll
+# ArtfulAllsop is an elegant portfolio theme for Jekyll
 
-Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc. This theme will help you professionally introduce yourself to your visitors and showcase your work in a minimalistic style. This super clean and fully optimized theme can be easily customized to suit your needs.
+ArtfulAllsop is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc. This theme will help you professionally introduce yourself to your visitors and showcase your work in a minimalistic style. This super clean and fully optimized theme can be easily customized to suit your needs.
 
 * * *
 
 ### Demo
 
-Check the theme in action [Live Demo](https://clancy.netlify.app/) |
+Check the theme in action [Live Demo](https://ArtfulAllsop.netlify.app/) |
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
@@ -57,7 +57,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ### Documentation
 
-Before using the Clancy theme, please read the attached documentation.
+Before using the ArtfulAllsop theme, please read the attached documentation.
 
 * * *
 
