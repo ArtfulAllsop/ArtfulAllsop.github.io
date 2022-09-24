@@ -1,17 +1,10 @@
-# Offical Website | artfulallsop.github.io/
+# Official Website | artfulallsop.github.io
 
-Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc. This theme will help you professionally introduce yourself to your visitors and showcase your work in a minimalistic style. This super clean and fully optimized theme can be easily customized to suit your needs.
-
-* * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://clancy.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+Short Intro Here:
 
 * * *
 
-### Theme features
+### Website Features:
 
 - Works with GitHub Pages (host it for free)
 - Dark and light mode user can select themself
@@ -39,25 +32,11 @@ Check the theme in action [Live Demo](https://clancy.netlify.app/) |
 
 * * *
 
-### Installation
-
-#### Installing Ruby & Jekyll
-
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
-
-* * *
-
 ### Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-* * *
-
-### Documentation
-
-Before using the Clancy theme, please read the attached documentation.
 
 * * *
 
