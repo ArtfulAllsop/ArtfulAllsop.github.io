@@ -1,11 +1,10 @@
 # Official Website | artfulallsop.github.io
 
+### Website Information:
+
 This is for the testing and design of my own personal website.
-
 This website is being hosted by GitHub Pages and uses a free domain name.
-
 Website developed with VSCode, Docker and Jekyll in a Windows environment.
-
 This website is for personal use and only used as a learning tool for my own interests.
 
 * * *
@@ -14,8 +13,8 @@ This website is for personal use and only used as a learning tool for my own int
 
 - Works with GitHub Pages and Jekyll.
 - Switch between dark and light modes.
-- 100% responsive design with modern Code.
-- Supports Google Analytics and free Google Fonts.
+- 100% responsive design with modern code.
+- Supports Google Analytics and Google Fonts.
 - Optimized for mobile devices and modern browsers.
 
 * * *
