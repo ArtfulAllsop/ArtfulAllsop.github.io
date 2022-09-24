@@ -2,10 +2,8 @@
 
 ### Website Information:
 
-This is for the testing and design of my own personal website.
-This website is being hosted by GitHub Pages and uses a free domain name.
-Website developed with VSCode, Docker and Jekyll in a Windows environment.
-This website is for personal use and only used as a learning tool for my own interests.
+This has been created for the testing and design of my own personal website.
+The website is being hosted by GitHub Pages and uses a free domain name and was developed with VSCode, Docker and Jekyll in a Windows 11 environment. This website is for personal use and only used as a learning tool for my own interests.
 
 * * *
 
